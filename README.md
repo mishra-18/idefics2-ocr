@@ -2,6 +2,8 @@
 
 Fine-tuned the ```HuggingFaceM4/idefics2-8b``` model on the nielsr/docvqa_1200_examples_donut dataset for document VQA pairs. Checkout Idefics2-OCR on [Hugging Face](https://huggingface.co/smishr-18/Idefics2-OCR).
 
+The entire training process and results are well documented and discussed on [Google Docs](https://docs.google.com/document/d/1BFApjOfvAsCac6oaLkPAIV4clhTpjflV1tU17LapRcU/edit?usp=sharing).
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0adba18a-afad-42e8-b9c7-50d4fec2a84a" alt="Image Description" width="600"/>
 </p>
